@@ -1,4 +1,7 @@
-This is the accompanying code sample to my step-by-step article on how to use the Office 365 SDK in iOS to create, read, update and delete files. It's very basic code that I slapped together in a very short amount of time, and is meant to be a quick demo, nothing more.
+# Office 365 iOS SDK
+## Sample App written in Swift
+
+This is the accompanying code sample to my step-by-step article on how to use the Office 365 SDK in iOS to create, read, update and delete files. It's very basic code that I slapped together in a very short amount of time to show you how easy it is to use the Office 365 iOS SDK in Swift.
 
 Use however you wish. No attribution necessary.
 
