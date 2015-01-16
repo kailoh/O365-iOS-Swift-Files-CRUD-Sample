@@ -5,4 +5,3 @@
 #import "ADAuthenticationContext.h"
 #import "office365_odata_base/office365_odata_base.h"
 #import "office365_files_sdk/office365_files_sdk.h"
-#import "office365_exchange_sdk/office365_exchange_sdk.h"
