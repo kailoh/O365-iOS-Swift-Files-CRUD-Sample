@@ -16,7 +16,7 @@ Create and upload a new file to your OneDrive for Business:
 ![upload file](http://static1.squarespace.com/static/54a82a8ee4b0d6033e481253/t/54b8bf4fe4b0ad6fb5dfa9fe/1421393745422/?format=1500w)
 
 Get the file contents, see its properties, and also make changes to the file contents and save it to the user's OneDrive for Business account:
-![save to cloud](http://static1.squarespace.com/static/54a82a8ee4b0d6033e481253/t/54b8bf6be4b068568714428a/1421393775252/?format=)
+![save to cloud](http://static1.squarespace.com/static/54a82a8ee4b0d6033e481253/t/54b8bf6be4b068568714428a/1421393775252/?format=1500w)
 
 Delete a file from OneDrive for Business with the sample app:
 ![delete or remove file](http://static1.squarespace.com/static/54a82a8ee4b0d6033e481253/t/54b8bf8ee4b096702d39e6ec/1421393809468/?format=1500w)
